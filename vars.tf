@@ -11,3 +11,5 @@ variable "storage_encrypted" {
     default = true
     
 }
+
+variable "instance_class" {}
